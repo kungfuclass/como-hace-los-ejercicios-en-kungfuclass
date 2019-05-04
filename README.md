@@ -57,6 +57,10 @@ Por último, una vez que has comprobado que todo está preparado para empezar a 
 * Con esto los cambios ya están recogidos en tu repositorio local, pero ahora debes hacer un ```git push``` para subir los cambios al repositorio remoto de GitHub, el que está en KungFuClass.
 * Entra a la web de GitHub para ver que efectivamente los cambios se han subido.
 
-Esta es la dinámica normal de trabajo: ir haciendo los pasos del tutorial, y en cada uno de los apartados que voy marcando puedes hacer un commit y un push para que el trabajo quede recogido por etapas, de este modo podré ir viendo cada commit que hayas realizado para ver como has ido progresando, si te has equivocado en algún punto o si has introducido alguna mejora respecto del original.
+## Resumiendo
+Esta sería la dinámica normal de trabajo: 
+* Descargar el contenido del repositorio dentro de la carpeta **plugins** de una instalación local de WordPress.
+* Ir haciendo los pasos del tutorial
+* En cada uno de los apartados que voy marcando puedes hacer un commit y un push para que el trabajo quede recogido por etapas, de este modo podré ir viendo cada commit que hayas realizado para ver como has ido progresando, si te has equivocado en algún punto o si has introducido alguna mejora respecto del original.
 
 El flujo sería igual en un entorno real de trabajo donde necesitaras implementar alguna mejora o nueva característica en el código e irás guardando los pasos a medida que las cosas vayan funcionando. También es recomendable al terminar una sesión de trabajo, donde en el mismo commit puedes dejarte un mensaje indicando que has hecho y donde lo dejas para continuar al día siguiente.
