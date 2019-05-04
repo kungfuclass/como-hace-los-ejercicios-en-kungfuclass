@@ -2,7 +2,7 @@
 
 Instrucciones para la realización de los tutoriales de **KungFuPress**. Estas pautas sirven para cualquiera de los ejercicios que te vaya proponiendo aunque voy a usar como ejemplo el tutorial ["Desarrollo de un formulario personalizado utilizando un plugin de creación propia"](https://kungfupress.com/como-programar-un-formulario-en-wordpress-sin-utilizar-plugins/). 
 
-Si te resulta más cómodo tienes todo el [contenido de este artículo en vídeo](https://youtu.be/dRuiJOhsVfM).
+Si te resulta más cómodo tienes [estas mismas instrucciones en vídeo](https://youtu.be/dRuiJOhsVfM).
 
 **Importante**: para hacer este ejercicio has debido recibir un enlace por correo electrónico. Si no es así envíame un correo a kungfupress@gmail.com solicitándolo e indicando cual es tu nombre de usuario en GitHub.
 
