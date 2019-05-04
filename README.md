@@ -1,11 +1,10 @@
 # Cómo hacer los ejercicios en KungFuClass
-Etiquetas: WordPress, GitHub, Git, Git Classroom, Plugin
 
-Hola, hoy te quiero dar unas pautas para la realización de los ejercicios del curso de **"Programación en WordPress"** de **KungFuPress**. Estas pautas sirven para cualquiera de los ejercicios que te vaya proponiendo aunque en este caso vas a ver el ejercicio de desarrollo de un formulario personalizado utilizando un plugin de creación propia. 
+Instrucciones para la realización de los tutoriales de **KungFuPress**. Estas pautas sirven para cualquiera de los ejercicios que te vaya proponiendo aunque voy a usar como ejemplo el tutorial ["Desarrollo de un formulario personalizado utilizando un plugin de creación propia"](https://kungfupress.com/como-programar-un-formulario-en-wordpress-sin-utilizar-plugins/). 
 
 Si te resulta más cómodo tienes todo el [contenido de este artículo en vídeo](https://youtu.be/dRuiJOhsVfM).
 
-En el blog de KungFuPress tienes el [ejercicio que vas a usar de ejemplo](https://kungfupress.com/como-programar-un-formulario-en-wordpress-sin-utilizar-plugins/) y para hacer este ejercicio has debido recibir un enlace por correo electrónico. Si no es así envíame un correo a kungfupress@gmail.com
+**Importante**: para hacer este ejercicio has debido recibir un enlace por correo electrónico. Si no es así envíame un correo a kungfupress@gmail.com solicitándolo e indicando cual es tu nombre de usuario en GitHub.
 
 ## Requisitos
 Necesitas tres requisitos antes de empezar a hacer este ejercicio:
