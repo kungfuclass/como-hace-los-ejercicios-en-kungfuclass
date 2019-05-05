@@ -1,19 +1,51 @@
-# Cómo hacer los ejercicios en KungFuClass
+# Cómo hacer los ejercicios en KungFuPress Classroom
 
-Instrucciones para la realización de los tutoriales de **KungFuPress**. Estas pautas sirven para cualquiera de los ejercicios que te vaya proponiendo aunque voy a usar como ejemplo el tutorial ["Desarrollo de un formulario personalizado utilizando un plugin de creación propia"](https://kungfupress.com/como-programar-un-formulario-en-wordpress-sin-utilizar-plugins/). 
+Estas pautas sirven para cualquiera de los ejercicios que te vaya proponiendo aunque voy a usar como ejemplo el tutorial ["Desarrollo de un formulario personalizado utilizando un plugin de creación propia"](https://kungfupress.com/como-programar-un-formulario-en-wordpress-sin-utilizar-plugins/). 
 
 Si te resulta más cómodo tienes [estas mismas instrucciones en vídeo](https://youtu.be/dRuiJOhsVfM).
 
 **Importante**: para hacer este ejercicio has debido recibir un enlace por correo electrónico. Si no es así envíame un correo a kungfupress@gmail.com solicitándolo e indicando cual es tu nombre de usuario en GitHub.
 
 ## Requisitos
-Necesitas tres requisitos antes de empezar a hacer este ejercicio:
-* Tener una cuenta en GitHub y unas nociones básicas de Git y de como funciona GitHub. Te envié información sobre ello con algún recurso para empezar.
-* También necesitas tener instalado algún entorno de desarrollo o editor de código en tu equipo. Te recomiendo Visual Code Studio por ser de código abierto, gratuito y ligero. Además ¡está de moda!
-* Y por último una instalación local de WordPress que esté funcionando donde vas a probar tu plugin.
+Necesitas algunos requisitos antes de empezar a hacer este ejercicio:
+* Instalación local de WordPress que esté funcionando donde vas a probar tu plugin.
+* Instalar **Git** en local, tener una cuenta en GitHub y unas nociones básicas de Git.
+* Entorno de desarrollo o editor de código en tu equipo. Te recomiendo **Visual Code Studio** por ser de código abierto, gratuito y ligero. Además ¡está de moda!
 
-## Comenzamos
+## Preparación del entorno de trabajo
 
+Para realizar los tutoriales y poder ir comprobando lo que vas haciendo te hará falta colocar la carpeta del plugin (o del tema cuando toque) dentro de la carpeta **plugins** o **themes** de una instalación local de WordPress.
+
+### WordPress local
+La instalación de WordPress local la puedes instalar con cualquiera de estas soluciones, las pongo por orden de facilidad de instalación y uso:
+* Utilizando [Local by Flywheel](https://localbyflywheel.com/).
+* Cualquier aplicación tipo WAMP (windows), MAMP(mac),  LAMP(linux) o XAMPP (para los tres).
+    * [Wamp Server](http://www.wampserver.com/en/).
+    * [MAMP](https://www.mamp.info/en/)
+    * [Instalar LAMP en Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/como-instalar-en-ubuntu-18-04-la-pila-lamp-linux-apache-mysql-y-php-es).
+    * [XAMPP - ApacheFriends](https://www.apachefriends.org/es/index.html).
+* Utilizando Docker con un hub de WordPress
+    * https://neliosoftware.com/es/blog/como-usar-docker-para-desarrollar-en-wordpress/
+    * https://platzi.com/blog/wordpress-en-docker/
+    * https://hub.docker.com/_/wordpress
+
+### Git
+Si  necesitas repasar tus conocimientos de Git te recomiendo el vídeo [Aprende Git en 30 minutos](https://www.youtube.com/watch?v=QGKTdL7GG24) (de momento bastaría con que controles hasta el minuto 15). En cuanto pueda quiero hacer uno más personalizado para el ecosistema WordPress. 
+Si prefieres leer o quieres profundizar un poco más te recomiendo el libro [Aprende Git y de paso GitHub](https://github.com/JJ/aprende-git). 
+
+Si utilizas Windows puedes descargar [Git para Windows](https://gitforwindows.org/), si usas Mac puedes instalar Git con [Homebrew](https://brew.sh/index_es )y si eres linuxero con tu gestor de paquetes favoritos aunque en la versiones actuales suele venir de serie. Si necesitas más información sobre la instalación te recomiendo el artículo ["Como instalar git en Windows, Mac y Linux"](https://filisantillan.com/como-instalar-git/)
+
+### GitHub
+Posiblemente ya tengas una cuenta en GitHub y puedes usar esa. Si no la tienes es un buen momento para [crear una](https://github.com/join?source=kungfupress). 
+
+Si te vas a dedicar al desarrollo de código esta será una de las redes sociales donde más deberías trabajar tu perfil, así que elige un buen nombre de usuario que refleje tu marca personal. Procura que no lleve números a no ser que el número forme parte de la marca.
+
+### Entorno de desarrollo
+Si no estás habituado a ningún IDE (entorno de desarrollo), te recomiendo que empieces con [Visual Studio Code](https://code.visualstudio.com/). 
+
+Una vez instalado puedes descargar algún plugin de este editor para WordPress, el más interesante es **WordPress VS Code Extension Pack**. Si da algún fallo durante la instalación o te pide instalar más cosas y no sabes seguir,  déjalo deshabilitado de momento, pero sigue con el ejercicio que es lo importante. Espero escribir un artículo sobre este tema en cuanto pueda.
+
+## Accede al enlace del ejercicio recibido por correo
 A continuación debes seguir el enlace del correo electrónico que has debido recibir para hacer el ejercicio. 
 
 Cuando accedas al enlace, el sistema de **GitHub Classroom** va a crear dentro de **KungFuClass** un repositorio personalizado con tu alias de GitHub que es sobre el que tienes que trabajar para ir haciendo el ejercicio.
@@ -41,8 +73,7 @@ Accede al directorio **kfc-form-autoevaluacion-tu-alias.php** que se acaba de cr
 
 Si tu shell está preparada para trabajar con repositorios de git es posible que el prompt cambie ligeramente de aspecto cuando estés dentro de un repositorio. Como ves dentro de este directorio están todos los archivos que estaban en GitHub.
 
-## Acceder al código desde un entorno de desarrollo
-
+## Accede al código desde el entorno de desarrollo
 Ahora puedes empezar a trabajar desde Visual Studio Code, abres el programa y dentro abres la carpeta del plugin.
 
 Para ver que todo está funcionando correctamente puedes modificar en la cabecera del plugin el campo **Author** con tu nombre.
