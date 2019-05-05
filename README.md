@@ -87,6 +87,7 @@ Por último, una vez que has comprobado que todo está preparado para empezar a 
 * Agrega los cambios al repositorio local con ```git commit -m"Modifica el valor de author en la cabecera del plugin"```
 * Con esto los cambios ya están recogidos en tu repositorio local, pero ahora debes hacer un ```git push``` para subir los cambios al repositorio remoto de GitHub, el que está en KungFuClass.
 * Entra a la web de GitHub para ver que efectivamente los cambios se han subido.
+* Sigue creando el plugin, haciendo commit, push a github y vuelta a empezar hasta terminar el tutorial. 
 
 ## Resumiendo
 Esta sería la dinámica normal de trabajo: 
@@ -94,4 +95,4 @@ Esta sería la dinámica normal de trabajo:
 * Ir haciendo los pasos del tutorial
 * En cada uno de los apartados que voy marcando puedes hacer un commit y un push para que el trabajo quede recogido por etapas, de este modo podré ir viendo cada commit que hayas realizado para ver como has ido progresando, si te has equivocado en algún punto o si has introducido alguna mejora respecto del original.
 
-El flujo sería igual en un entorno real de trabajo donde necesitaras implementar alguna mejora o nueva característica en el código e irás guardando los pasos a medida que las cosas vayan funcionando. También es recomendable al terminar una sesión de trabajo, donde en el mismo commit puedes dejarte un mensaje indicando que has hecho y donde lo dejas para continuar al día siguiente.
+El flujo sería igual en un entorno real de trabajo donde necesitaras implementar alguna mejora o nueva característica en el código e ir guardando los pasos a medida que las cosas vayan funcionando. También es recomendable al terminar una sesión de trabajo, donde en el mismo commit puedes dejarte un mensaje indicando que has hecho y donde lo dejas para continuar al día siguiente.
