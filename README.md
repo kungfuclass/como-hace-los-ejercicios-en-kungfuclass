@@ -96,3 +96,5 @@ Esta sería la dinámica normal de trabajo:
 * En cada uno de los apartados que voy marcando puedes hacer un commit y un push para que el trabajo quede recogido por etapas, de este modo podré ir viendo cada commit que hayas realizado para ver como has ido progresando, si te has equivocado en algún punto o si has introducido alguna mejora respecto del original.
 
 El flujo sería igual en un entorno real de trabajo donde necesitaras implementar alguna mejora o nueva característica en el código e ir guardando los pasos a medida que las cosas vayan funcionando. También es recomendable al terminar una sesión de trabajo, donde en el mismo commit puedes dejarte un mensaje indicando que has hecho y donde lo dejas para continuar al día siguiente.
+
+¿Has encontrado algún error? ¿Tienes una propuesta para mejorar esta guía? Si es así te agradezco infinito que [me dejes un issue](https://github.com/kungfuclass/como-hacer-los-ejercicios-en-kungfuclass/issues/new) para mejorarlo y así poder ayudar al resto de aprendices.
