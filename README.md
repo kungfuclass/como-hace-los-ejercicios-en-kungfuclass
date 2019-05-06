@@ -18,7 +18,7 @@ Para realizar los tutoriales y poder ir comprobando lo que vas haciendo te hará
 
 ### WordPress local
 La instalación de WordPress local la puedes instalar con cualquiera de estas soluciones, las pongo por orden de facilidad de instalación y uso:
-* Utilizando [Local by Flywheel](https://localbyflywheel.com/) o [[DesktopServer](https://serverpress.com/).
+* Utilizando [Local by Flywheel](https://localbyflywheel.com/) o [DesktopServer](https://serverpress.com/).
 * Cualquier aplicación tipo WAMP (windows), MAMP(mac),  LAMP(linux) o XAMPP (para los tres).
     * [Wamp Server](http://www.wampserver.com/en/).
     * [MAMP](https://www.mamp.info/en/)
