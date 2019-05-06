@@ -8,7 +8,7 @@ Si te resulta más cómodo tienes [estas mismas instrucciones en vídeo](https:/
 
 ## Requisitos
 Necesitas algunos requisitos antes de empezar a hacer este ejercicio:
-* Instalación local de WordPress que esté funcionando donde vas a probar tu plugin.
+* Instalación local de WordPress para desarrollar y probar tu plugin.
 * Instalar **Git** en local, tener una cuenta en GitHub y unas nociones básicas de Git.
 * Entorno de desarrollo o editor de código en tu equipo. Te recomiendo **Visual Code Studio** por ser de código abierto, gratuito y ligero. Además ¡está de moda!
 
