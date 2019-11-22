@@ -40,6 +40,16 @@ Posiblemente ya tengas una cuenta en GitHub y puedes usar esa. Si no la tienes e
 
 Si te vas a dedicar al desarrollo de código esta será una de las redes sociales donde más deberías trabajar tu perfil, así que elige un buen nombre de usuario que refleje tu marca personal. Procura que no lleve números a no ser que el número forme parte de la marca.
 
+Más adelante te explicaré como trabajar con GitHub para crear, modificar y compartir tu código, de momento basta con que tengas o te crees una cuenta.
+
+### Primera vez con Git
+Si es la primera vez que vas a usar git desde este equipo debes configurar un par de cosas más. Para ello puedes utilizar el terminal de Linux o Mac o la aplicación Git Bash en Windows, si has seguido los pasos que te di para instalar Git ya lo debes tener todo listo:
+* Usuario y correo para los registros(logs) de los commits. Para ello teclea estas dos órdenes:
+    ```
+    git config --global user.name “Pepe Pérez"
+    git config --global user.email “pepeperez@dominio.com" 
+    ```
+
 ### Entorno de desarrollo
 Si no estás habituado a ningún IDE (entorno de desarrollo), te recomiendo que empieces con [Visual Studio Code](https://code.visualstudio.com/). 
 
@@ -58,9 +68,9 @@ En ese repositorio ya tienes una plantilla inicial con cuatro ficheros:
 
 Cómo ves contiene un esqueleto muy básico para empezar a desarrollar el plugin.
 
-Una vez echas las presentaciones, vas a copiar el repositorio a tu entorno de desarrollo y entonces ¡por fin! podrás empezar a escribir código en él.
+Una vez echas las presentaciones, vas a copiar el repositorio a tu entorno de desarrollo y entonces ¡por fin! podrás empezar a escribir código en él. 🙌
 
-Si todo esto te parece engorroso esta primera vez pronto te resultará algo natural, y no solamente tiene utilidad para hacer ejercicio de clase, sino que, he escogido precisamente este sistema, porque es el que utilizan actualmente todos los desarrolladores de código, ya trabajen en WordPress, JavaScript, PHP, Java, RubyOn Rails o lo que sea. Y esto es lo que deberías encontrar en cualquier entorno de trabajo serio, y si no, puedes aportarlo tú.
+Si todo esto te parece engorroso esta primera vez pronto te resultará algo natural, y no solamente tiene utilidad para hacer ejercicio de clase, sino que, he escogido precisamente este sistema, porque es el que utilizan actualmente todos los desarrolladores, trabajen en WordPress, JavaScript, PHP, Java o lo que sea. De hecho esto es lo que deberías encontrar en cualquier entorno de trabajo serio, y si no, puedes aportarlo tú.
 
 ## Descarga del repositorio en local
 Para copiar la URL del repositorio, ve a la página inicial del mismo, busca el botón verde **Clone or download** y copia la URL al portapapeles 📋
