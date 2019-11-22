@@ -50,12 +50,12 @@ Si es la primera vez que vas a usar git desde este equipo debes configurar un pa
     git config --global user.email “pepeperez@dominio.com" 
     ```
 
-### Entorno de desarrollo
+## Entorno de desarrollo
 Si no estás habituado a ningún IDE (entorno de desarrollo), te recomiendo que empieces con [Visual Studio Code](https://code.visualstudio.com/). 
 
 Una vez instalado puedes descargar algún plugin de este editor para WordPress, el más interesante es **WordPress VS Code Extension Pack**. Si da algún fallo durante la instalación o te pide instalar más cosas y no sabes seguir,  déjalo deshabilitado de momento, pero sigue con el ejercicio que es lo importante. Espero escribir un artículo sobre este tema en cuanto pueda.
 
-## Accede al enlace del ejercicio recibido por correo
+## Prepara y descarga el repositorio de trabajo
 A continuación debes seguir el enlace del correo electrónico que has debido recibir para hacer el ejercicio. 
 
 Cuando accedas al enlace, el sistema de **GitHub Classroom** va a crear dentro de **KungFuClass** un repositorio personalizado con tu alias de GitHub que es sobre el que tienes que trabajar para ir haciendo el ejercicio.
